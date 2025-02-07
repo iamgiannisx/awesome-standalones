@@ -5,6 +5,11 @@
     "repo": "https://github.com/github/details-dialog-element"
   },
   {
+    "name": "details-dialog-test",
+    "category": "extensions",
+    "repo": "https://github.com/github/details-dialog-element"
+  },
+  {
     "name": "details-menu",
     "category": "extensions",
     "repo": "https://github.com/github/details-menu-element"
